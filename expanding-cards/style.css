@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+
+.container{
+    display: flex;
+    width: 90vw;
+    height: 80vh;
+    margin: 10vh 5vw;
+}
+
+.image{
+    display: flex;
+    align-items: end;
+    width: 6vw;
+    border-radius: 50px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: 1s ease-in;
+    color:transparent;
+}
+
+.image.active{
+    cursor: auto;
+    padding-left: 20px;
+    width: 66vw;
+    color: white;
+}
