@@ -4,10 +4,8 @@
 
 ### Project	List
 
-- [x] 
-    01. Expanding Cards
-- [x] 
-    02. Progress Steps
+- [x] 01. Expanding Cards
+- [x] 02. Progress Steps
 - [ ] 
     03. Rotating Navigation Animation
 - [ ] 
